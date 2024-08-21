@@ -11,6 +11,11 @@
                             <field name="name"/>
                             <field name="number"/>
                         </group>
+                        <group>
+                            <field name="cost_per_gallon"/>
+                            <field name="gallons_per_tank"/>
+                            <field name="cost_per_tank"/>
+                        </group>
                     </group>
                 </sheet>
             </form>
